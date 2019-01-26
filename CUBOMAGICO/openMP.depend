@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1538834038 source:c:\users\fabia\desktop\openmp\main.cpp
+	<iostream>
+	<fstream>
+	<time.h>
+	<stdlib.h>
+	<cstring>
+	<omp.h>
+	<mpi.h>
+	<omp.h>
+
